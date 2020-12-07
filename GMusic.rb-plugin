@@ -1,0 +1,13 @@
+[RB Plugin]
+Loader=python
+Module=googlemusic
+IAge=1
+Name=Google music
+Name[zh_CN]=谷歌音乐
+Description=Adds support to Rhythmbox for playing and downloading google music
+Description[zh_CN]=添加 Rhythmbox 从 music.google.cn 播放和下载音乐
+
+Authors=xulong
+
+Copyright=Copyright © 2010 xulong<fangkailove@gmail.com>,<fangkailove@yeah.net>
+Website=http://blog.csdn.net/fangkailove,http://gnolux-blog.appspot.com
